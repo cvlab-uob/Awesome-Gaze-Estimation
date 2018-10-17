@@ -41,13 +41,13 @@ updated: 17/10/2018
 @String{elsevier       = "Elsevier"}
 @String{etra           = {Proceedings of the Eye Tracking Research and Application Symposium}}
 @String{etsa           = "Proceedings of International Conference on Eye Tracking South Africa"}
-@String{FiCloud          = {Proceedings of International Conference on Future Internet of Things and Cloud}}
+@String{FiCloud        = {Proceedings of International Conference on Future Internet of Things and Cloud}}
 @String{ftcgv          = {Foundations and Trends in Computer Graphics and Vision}}
 @String{gcpr           = {Proceedings of German Conference on Pattern Recognition}}
 @String{hacippr        = "Joint Hungarian-Austrian Conference on Image Processing and Pattern Recognition"} 
 @String{hfcs           = {Proceedings of International Conference on Human Factors in Computing Systems}}
 @String{hri            = "Proceedings of International Conference on Human-Robot Interaction"}
-@String{hst           = {Proceedings of International Symposium on Technologies for Homeland Security}}
+@String{hst            = {Proceedings of International Symposium on Technologies for Homeland Security}}
 @String{iaes           = {Institute of Advanced Engineering and Science}}
 @String{ic3dv          = {Proceedings of International Conference on 3D Vision}}
 @String{icagis         = {Proceedings of International Conference on Advances in Geographic Information Systems}}
@@ -70,8 +70,8 @@ updated: 17/10/2018
 @String{icvgip         = "Proceedings of Indian Conference on Computer Vision, Graphics and Image Processing"} 
 @String{IcvgipWdh      = "Proceedings of ICVGIP Workshop on Digital Heritage"}
 @String{ieee           = {IEEE}}
-@String{ijars           = {International Journal of Advanced Robotic Systems}}
-@String{ijcai        = {Proceedings of International Joint Conference on Artificial Intelligence}}@String{ijcv           = {International Journal of Computer Vision}}
+@String{ijars          = {International Journal of Advanced Robotic Systems}}
+@String{ijcai          = {Proceedings of International Joint Conference on Artificial Intelligence}}@String{ijcv           = {International Journal of Computer Vision}}
 @String{ijra           = {IAES International Journal of Robotics and Automation}}
 @String{ijrr           = {International Journal of Robotics Research}}
 @String{ijrs           = {International Journal of Remote Sensing}}
@@ -107,7 +107,7 @@ updated: 17/10/2018
 @String{mia            = "Medical Image Analysis"}
 @String{mis            = {IEEE Intelligent Systems }}
 @String{mj             = {Measurement}}
-@String{mksc            = {Journal of Marketing Science }}
+@String{mksc           = {Journal of Marketing Science }}
 @String{mmar           = {Proceedings of International Conference on Methods and Models in Automation and Robotics}}
 @String{mms            = {Journal of Multimedia Systems }}
 @String{mse            = {Modelling and Simulation in Engineering}}
