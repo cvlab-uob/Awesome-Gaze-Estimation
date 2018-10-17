@@ -1,5 +1,5 @@
 Computer vision BibTeX strings
-updated: 08/10/2018
+updated: 17/10/2018
 
 @String{aab            = {Advances in Animal Biosciences}}
 @String{access         = {IEEE Access}}
@@ -8,6 +8,7 @@ updated: 08/10/2018
 @String{accv-imev      = "Proceedings of ACCV Workshop on Intelligent Mobile \& Egocentric Vision"}
 @String{acivs          = "Proceedings of Advanced Concepts for Intelligent Vision Systems"}
 @String{acmmm          = {Proceedings of ACM International Conference on Multimedia}}
+@String{acp            = {Journal of Applied Cognitive Psychology}}
 @String{afgr           = {Proceedings of International Conference on Automatic Face and Gesture Recognition}}
 @String{aiaa           = {AIAA Guidance, Navigation, and Control Conference and Exhibit}}
 @String{arxiv          = {ArXiv}}
@@ -16,9 +17,12 @@ updated: 08/10/2018
 @String{avss           = {Proceedings of International Conference on Advanced Video and Signal based Surveillance}}
 @String{bmei           = "Proceedings of International Conference on BioMedical Engineering and Informatics"}
 @String{bmvc           = "Proceedings of British Machine Vision Conference"}
+@String{cacm           = "Communications of the ACM"}
 @String{cai            = {AAAI Conference on Artificial Intelligence}}
 @String{caip           = "Proceedings of International Conference on Computer Analysis of Images and Patterns"} 
 @String{ccis           = "Communications in Computer and Information Science"}
+@String{ceec           = {Computer Science and Electronic Engineering Conference}}
+@String{cje            = "Chinese Journal of Electronics"}
 @String{cmpb           = {Computer Methods and Programs in Biomedicine}}
 @String{cnna           = "Proceedings of International Workshop on Cellular Neural Networks and their Applications"} 
 @String{coginfocom     = {Proceedings of International Conference on Cognitive Infocommunications}}
@@ -37,11 +41,13 @@ updated: 08/10/2018
 @String{elsevier       = "Elsevier"}
 @String{etra           = {Proceedings of the Eye Tracking Research and Application Symposium}}
 @String{etsa           = "Proceedings of International Conference on Eye Tracking South Africa"}
+@String{FiCloud          = {Proceedings of International Conference on Future Internet of Things and Cloud}}
 @String{ftcgv          = {Foundations and Trends in Computer Graphics and Vision}}
 @String{gcpr           = {Proceedings of German Conference on Pattern Recognition}}
 @String{hacippr        = "Joint Hungarian-Austrian Conference on Image Processing and Pattern Recognition"} 
 @String{hfcs           = {Proceedings of International Conference on Human Factors in Computing Systems}}
 @String{hri            = "Proceedings of International Conference on Human-Robot Interaction"}
+@String{hst           = {Proceedings of International Symposium on Technologies for Homeland Security}}
 @String{iaes           = {Institute of Advanced Engineering and Science}}
 @String{ic3dv          = {Proceedings of International Conference on 3D Vision}}
 @String{icagis         = {Proceedings of International Conference on Advances in Geographic Information Systems}}
@@ -64,7 +70,8 @@ updated: 08/10/2018
 @String{icvgip         = "Proceedings of Indian Conference on Computer Vision, Graphics and Image Processing"} 
 @String{IcvgipWdh      = "Proceedings of ICVGIP Workshop on Digital Heritage"}
 @String{ieee           = {IEEE}}
-@String{ijcv           = {International Journal of Computer Vision}}
+@String{ijars           = {International Journal of Advanced Robotic Systems}}
+@String{ijcai        = {Proceedings of International Joint Conference on Artificial Intelligence}}@String{ijcv           = {International Journal of Computer Vision}}
 @String{ijra           = {IAES International Journal of Robotics and Automation}}
 @String{ijrr           = {International Journal of Robotics Research}}
 @String{ijrs           = {International Journal of Remote Sensing}}
@@ -76,8 +83,9 @@ updated: 08/10/2018
 @String{ipcv           = {Proceedings of International Conference on Image Processing, Computer Vision and Pattern Recognition}}
 @String{ipin           = {Proceedings of International Conference on Indoor Positioning and Indoor Navigation}}
 @String{ipol           = {Image Processing On Line}}
+@String{irjet          = {International Research Journal of Engineering and Technology}}
 @String{iros           = {Proceedings of International Conference on Intelligent Robots and Systems}}
-@String{ispa           = "Proceedings of International Symposium on Image and Signal Processing and Analysis"}
+@String{iske           = {Proceedings of International Conference on Intelligent Systems and Knowledge Engineering }}@String{ispa           = "Proceedings of International Symposium on Image and Signal Processing and Analysis"}
 @String{isprs          = {ISPRS Journal of Photogrammetry and Remote Sensing}}
 @String{itsc           = {Proceedings of International Conference on Intelligent Transportation Systems}}
 @String{ivc            = "Image and Vision Computing"}
@@ -95,9 +103,13 @@ updated: 08/10/2018
 @String{ktu            = {Kaunas University of Technology}}
 @String{ktu-ee         = {Elektronika ir Elektrotechnika}}
 @String{lncs           = "Lecture Notes in Computer Science"}
+@String{lnee           = "Lecture Notes in Electrical Engineering"}
 @String{mia            = "Medical Image Analysis"}
+@String{mis            = {IEEE Intelligent Systems }}
 @String{mj             = {Measurement}}
+@String{mksc            = {Journal of Marketing Science }}
 @String{mmar           = {Proceedings of International Conference on Methods and Models in Automation and Robotics}}
+@String{mms            = {Journal of Multimedia Systems }}
 @String{mse            = {Modelling and Simulation in Engineering}}
 @String{mt             = {Microsystem Technologies}}
 @String{mva            = "Machine Vision and Applications"}
@@ -127,6 +139,7 @@ updated: 08/10/2018
 @String{seus           = {Proceedings of International Conference on Software Technologies for Embedded and Ubiquitous Systems}}
 @String{sibgrapi       = {Proceedings of International Conference on Graphics, Patterns and Images}}
 @String{sice-jcmsi     = {SICE Journal of Control, Measurement, and System Integration}}
+@String{siggraph       = {Proceedings of ACM SIGGRAPH Computer Graphics}}
 @String{sipij          = {Signal \& Image Processing: An International Journal}}
 @String{sisy           = {Proceedings of International Symposium on Intelligent Systems and Informatics}}
 @String{sj             = {IEEE Sensors Journal}}
@@ -139,6 +152,8 @@ updated: 08/10/2018
 @String{star           = {Springer Tracts in Advanced Robotics}}
 @String{symmetry       = {Symmetry}}
 @String{tac            = {IEEE Transactions on Automatic Control}}
+@String{tbme           = {IEEE Transactions on Biomedical Engineering}}
+@String{tce            = {IEEE Transactions on Consumer Electronics}}
 @String{thms           = {IEEE Transactions on Human-Machine Systems}}
 @String{tim            = {IEEE Transactions on Instrumentation and Measurement}}
 @String{tip            = "IEEE Transactions on Image Processing"}
