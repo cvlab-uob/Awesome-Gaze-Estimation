@@ -1,5 +1,7 @@
 Computer vision BibTeX strings
-updated: 17/10/2018
+updated: 25/10/2018
+
+% Encoding: UTF-8
 
 @String{aab            = {Advances in Animal Biosciences}}
 @String{access         = {IEEE Access}}
@@ -59,19 +61,22 @@ updated: 17/10/2018
 @String{iccv-multiview = "Proceedings of ICCV Workshop on Multiview Relationships in 3D Data"}
 @String{iccvw          = {Proceedings of ICCV Workshops}}
 @String{icdsc          = {Proceedings of International Conference on Distributed Smart Cameras}}
+@String{icee           = {Proceedings of Iranian Conference on Electrical Engineering}}
 @String{icia           = {Proceedings of International Conference on Information and Automation}}
 @String{iciar          = "Proceedings of International Conference on Image Analysis and Recognition"}
 @String{icip           = "Proceedings of International Conference on Image Processing"}
 @String{icise          = {Proceedings of International Conference on Information Science and Engineering}}
 @String{icmnssa        = {Proceedings of International Conference on Micro- and Nanotechnology Sensors, Systems, and Applications}}
 @String{icpr           = "Proceedings of International Conference on Pattern Recognition"} 
+@String{icpr-vaam      = "Proceedings of ICPR Workshop on Video Analytics for Audience Measurement"}
 @String{icra           = {Proceedings of International Conference on Robotics and Automation}}
 @String{icufn          = {Proceedings of International Conference on Ubiquitous and Future Networks}}
 @String{icvgip         = "Proceedings of Indian Conference on Computer Vision, Graphics and Image Processing"} 
 @String{IcvgipWdh      = "Proceedings of ICVGIP Workshop on Digital Heritage"}
 @String{ieee           = {IEEE}}
 @String{ijars          = {International Journal of Advanced Robotic Systems}}
-@String{ijcai          = {Proceedings of International Joint Conference on Artificial Intelligence}}@String{ijcv           = {International Journal of Computer Vision}}
+@String{ijcai          = {Proceedings of International Joint Conference on Artificial Intelligence}}
+@String{ijcv           = {International Journal of Computer Vision}}
 @String{ijra           = {IAES International Journal of Robotics and Automation}}
 @String{ijrr           = {International Journal of Robotics Research}}
 @String{ijrs           = {International Journal of Remote Sensing}}
@@ -79,6 +84,7 @@ updated: 17/10/2018
 @String{imdf           = {International Journal of Image and Data Fusion}}
 @String{imdsp          = "Proceedings of International Workshop on Image and Multidimensional Digital Signal Processing"}
 @String{impvt          = {Proceedings of International Conference on 3D Imaging, Modeling, Processing, Visualization {\&} Transmission}}
+@String{imwut          = {Proceedings of ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies}}
 @String{inffusion      = {Information Fusion}}
 @String{ipcv           = {Proceedings of International Conference on Image Processing, Computer Vision and Pattern Recognition}}
 @String{ipin           = {Proceedings of International Conference on Indoor Positioning and Indoor Navigation}}
@@ -110,6 +116,7 @@ updated: 17/10/2018
 @String{mksc           = {Journal of Marketing Science }}
 @String{mmar           = {Proceedings of International Conference on Methods and Models in Automation and Robotics}}
 @String{mms            = {Journal of Multimedia Systems }}
+@String{mobisys        = {Proceedings of International Conference on Mobile Systems, Applications, and Services}}
 @String{mse            = {Modelling and Simulation in Engineering}}
 @String{mt             = {Microsystem Technologies}}
 @String{mva            = "Machine Vision and Applications"}
@@ -119,7 +126,7 @@ updated: 17/10/2018
 @String{ole            = {Optics and Lasers in Engineering}}
 @String{omnivis        = "Proceedings of ICRA Workshop on Omnidirectional Vision, Camera Networks and Non-classical Cameras"}
 @String{pattrec        = "Pattern Recognition"}
-@String{pattreclet     = "Pattern Recognition Letters"}
+@String{prl            = "Pattern Recognition Letters"}
 @String{pg             = "Proceedings of Pacific Conference on Computer Graphics and Applications"} 
 @String{pieee          = {Proceedings of the IEEE}}
 @String{plans          = {Proceedings of IEEE/ION on Position, Location and Navigation Symposium}}
