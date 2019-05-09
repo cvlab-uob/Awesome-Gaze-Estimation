@@ -15,12 +15,6 @@
 <li>2016: <a href="#2016-cvpr">CVPR</a>, <a href="#2016-eccv">ECCV</a>, <a href="#2016-others">Others</a></li>
 <li>2015: <a href="#2015-cvpr">CVPR</a>, <a href="#2015-iccv">ICCV</a>, <a href="#2015-others">Others</a></li>
 <li>2014: <a href="#2014-cvpr">CVPR</a>, <a href="#2014-others--before">Others &amp; Before</a></li>
-
-<li><a href="#cvpr">CVPR</a></li>
-<li><a href="#iccv">ICCV</a></li>
-<li><a href="#eccv">ECCV</a></li>
-<li><a href="#etra">ETRA</a></li>
-<li><a href="#others">Others</a></li>
 </ul>
 </li>
 <li><a href="#arxiv-papers">arXiv Papers</a></li>
