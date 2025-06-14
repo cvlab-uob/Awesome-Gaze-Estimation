@@ -10,7 +10,7 @@
 <li><a href="#conference-papers">Conference Papers</a>
 <ul>
 <li>2025: <a href="#2025-cvpr">CVPR</a>, <a href="#2025-iccv">ICCV</a>, <a href="#2025-others">Others</a></li>
-<li>2024: <a href="#2024-cvpr">CVPR</a>, <a href="#2024-eccv">ICCV</a>, <a href="#2024-others">Others</a></li>
+<li>2024: <a href="#2024-cvpr">CVPR</a>, <a href="#2024-eccv">ECCV</a>, <a href="#2024-others">Others</a></li>
 <li>2023: <a href="#2023-cvpr">CVPR</a>, <a href="#2023-iccv">ICCV</a>, <a href="#2023-others">Others</a></li>
 <li>2022: <a href="#2022-cvpr">CVPR</a>, <a href="#2022-eccv">ECCV</a>, <a href="#2022-others">Others</a></li>
 <li>2021: <a href="#2021-cvpr">CVPR</a>, <a href="#2021-iccv">ICCV</a>, <a href="#2021-others">Others</a></li>
